@@ -2,19 +2,12 @@
 
 Hoobank is a mock financial app website designed to showcase my frontend development skills. The website is built using React, Vite, HTML, CSS, JavaScript, and TailwindCSS.
 
-![Hoobank Screenshot](https://i.imgur.com/P5Z1e33.png)
-
 ## Features
 
 - Responsive design that works on all devices
 - Interactive user interface
 - Gradient design
-- Animated page transitions
-- Login and sign up functionality
-- Account dashboard with account balance and transaction history
-- Transfer funds to other accounts
-- Schedule future transfers
-- Add and remove beneficiaries
+- Reuseable Components
 
 ## Technologies Used
 
